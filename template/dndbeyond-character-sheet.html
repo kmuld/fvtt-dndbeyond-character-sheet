@@ -908,14 +908,13 @@
                             {{#if isCharacter}}
                             <ol class="currency flexrow">
 
-                                {{#each system.currency as |v k|}}
-                                <label class="denomination {{k}}"></label>
-                                <input type="text" name="system.currency.{{k}}" value="{{v}}" data-dtype="Number" />
-                                {{/each}}
-                                <h3 class="currency-convert-button">
-                                    <a class="currency-convert rollable" data-action="convertCurrency"
-                                        title="{{localize 'DND5E.CurrencyConvert'}}">Convert</a>
-                                </h3>
+                                <label class="denomination gp"></label>
+                                <input type="text" name="system.currency.pp" value="{{system.currency.pp}}" data-dtype="Number" />
+                                <label class="denomination sp"></label>
+                                <input type="text" name="system.currency.gp" value="{{system.currency.gp}}" data-dtype="Number" />
+                                <label class="denomination cp"></label>
+                                <input type="text" name="system.currency.sp" value="{{system.currency.sp}}" data-dtype="Number" />
+                                
                             </ol>
                             {{/if}}
                         </div>
