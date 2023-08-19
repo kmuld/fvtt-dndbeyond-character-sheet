@@ -754,31 +754,31 @@
   margin: 10px 0;
 }
 
-.dndbcs.sheet.actor .inventory-filters .currency label.denomination.ppz {
+.dndbcs.sheet.actor .inventory-filters .currency label.denomination.pp {
   background: url(../images/pp.png) no-repeat;
   background-size: auto 20px;
   padding-left: 24px;
 }
 
-.dndbcs.sheet.actor .inventory-filters .currency label.denomination.epz {
+.dndbcs.sheet.actor .inventory-filters .currency label.denomination.ep {
   background: url(../images/ep.png) no-repeat;
   background-size: auto 20px;
   padding-left: 24px;
 }
 
-.dndbcs.sheet.actor .inventory-filters .currency label.denomination.gpz {
+.dndbcs.sheet.actor .inventory-filters .currency label.denomination.gp {
   background: url(../images/gp.png) no-repeat;
   background-size: auto 20px;
   padding-left: 24px;
 }
 
-.dndbcs.sheet.actor .inventory-filters .currency label.denomination.spz {
+.dndbcs.sheet.actor .inventory-filters .currency label.denomination.sp {
   background: url(../images/sp.png) no-repeat;
   background-size: auto 20px;
   padding-left: 24px;
 }
 
-.dndbcs.sheet.actor .inventory-filters .currency label.denomination.cpz {
+.dndbcs.sheet.actor .inventory-filters .currency label.denomination.cp {
   background: url(../images/cp.png) no-repeat;
   background-size: auto 20px;
   padding-left: 24px;
