@@ -30,6 +30,6 @@
       }
     ]
   },
-  "manifest": "https://raw.githubusercontent.com/jopeek/fvtt-dndbeyond-character-sheet/1.10.0/module.json",
-  "download": "https://github.com/jopeek/fvtt-dndbeyond-character-sheet/archive/1.10.0.zip"
+  "manifest": "https://raw.githubusercontent.com/kmuld/fvtt-dndbeyond-character-sheet/master/module.json",
+  "download": "https://github.com/kmuld/fvtt-dndbeyond-character-sheet/archive/master.zip"
 }
