@@ -755,7 +755,7 @@
 }
 
 .dndbcs.sheet.actor .inventory-filters .currency label.denomination.pp {
-  background: url(../images/pp.png) no-repeat;
+  background: url(../images/gp.png) no-repeat;
   background-size: auto 20px;
   padding-left: 24px;
 }
@@ -767,13 +767,13 @@
 }
 
 .dndbcs.sheet.actor .inventory-filters .currency label.denomination.gp {
-  background: url(../images/gp.png) no-repeat;
+  background: url(../images/sp.png) no-repeat;
   background-size: auto 20px;
   padding-left: 24px;
 }
 
 .dndbcs.sheet.actor .inventory-filters .currency label.denomination.sp {
-  background: url(../images/sp.png) no-repeat;
+  background: url(../images/cp.png) no-repeat;
   background-size: auto 20px;
   padding-left: 24px;
 }
